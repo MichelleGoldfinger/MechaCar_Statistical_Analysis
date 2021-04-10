@@ -4,7 +4,8 @@
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 The Pr(>|t|) values for each our values are all less than their corresponding signifigance levels:
-[image](https://user-images.githubusercontent.com/75905911/114272504-6f125e00-99e4-11eb-9d73-82fb8898af45.png)
+<img width="201" alt="Screen Shot 2021-04-10 at 10 08 37 AM" src="https://user-images.githubusercontent.com/75905911/114272578-c0225200-99e4-11eb-8fc5-c7aa26b3b4c9.png">
+
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 The p-value of our linear regression analysis is 5.35x10e-11, which is much smaller than our assumed significance level of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
