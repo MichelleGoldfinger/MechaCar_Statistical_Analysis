@@ -23,7 +23,7 @@
 
 <img width="348" alt="Screen Shot 2021-04-10 at 11 17 39 AM" src="https://user-images.githubusercontent.com/75905911/114274880-658df380-99ee-11eb-91c4-de88f46d7530.png">
 
-    In our analysis per lot, both Lot1 and Lot2 have variance levels under the 100 PSI (0.9795918 and 7.4693878 respectively). So Lot1 and Lot2 vehicles would meet     the current manufacturing design specifications. However, Lot3 with a variance of 170.2861224 (over the 100 PSI standard would not meet the current                 manufacturing design specifications
+  In our analysis per lot, both Lot1 and Lot2 have variance levels under the 100 PSI (0.9795918 and 7.4693878 respectively). So Lot1 and Lot2 vehicles would meet     the current manufacturing design specifications. However, Lot3 with a variance of 170.2861224 (over the 100 PSI standard would not meet the current                 manufacturing design specifications.
 
 <img width="497" alt="Screen Shot 2021-04-10 at 11 26 16 AM" src="https://user-images.githubusercontent.com/75905911/114275206-9b7fa780-99ef-11eb-88b6-ab19215d1c76.png">
 
@@ -37,9 +37,10 @@
 
 * Write three more RScripts in your using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
-## Study Design: MechaCar vs Competition
+## Deliverable 4: Study Design: MechaCar vs Competition
 Describe a statistical study that can quantify how the MechaCar performs against the competition
 * What metric or metrics are you going to test?
+  
   The metric I will test is city or highway fuel efficiency.
 
 * What is the null hypothesis or alternative hypothesis?
