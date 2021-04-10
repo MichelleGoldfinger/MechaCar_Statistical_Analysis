@@ -23,7 +23,7 @@
 
 <img width="348" alt="Screen Shot 2021-04-10 at 11 17 39 AM" src="https://user-images.githubusercontent.com/75905911/114274880-658df380-99ee-11eb-91c4-de88f46d7530.png">
 
-  In our analysis per lot, both Lot1 and Lot2 have variance levels under the 100 PSI (0.9795918 and 7.4693878 respectively). So Lot1 and Lot2 vehicles would meet     the current manufacturing design specifications. However, Lot3 with a variance of 170.2861224 (over the 100 PSI standard would not meet the current manufacturing   design specifications
+    In our analysis per lot, both Lot1 and Lot2 have variance levels under the 100 PSI (0.9795918 and 7.4693878 respectively). So Lot1 and Lot2 vehicles would meet     the current manufacturing design specifications. However, Lot3 with a variance of 170.2861224 (over the 100 PSI standard would not meet the current                 manufacturing design specifications
 
 <img width="497" alt="Screen Shot 2021-04-10 at 11 26 16 AM" src="https://user-images.githubusercontent.com/75905911/114275206-9b7fa780-99ef-11eb-88b6-ab19215d1c76.png">
 
