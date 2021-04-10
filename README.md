@@ -43,7 +43,7 @@ Describe a statistical study that can quantify how the MechaCar performs against
   The metric I will test is city or highway fuel efficiency.
 
 * What is the null hypothesis or alternative hypothesis?
-  Null hypothesis: MechaCar performs the same against the competition for city or highway fuel efficiency.
+   Null hypothesis: MechaCar performs the same against the competition for city or highway fuel efficiency.
 
 * What statistical test would you use to test the hypothesis? And why?
    I would use a t.test() to compare the mean cities or highway fuel efficiency for MechaCar and its competition. I would use this test because the t.test() would      answer the question is there a statistical difference between the mean of the sample distribution (the competition) and the mean of the population                  distribution(MechCar)?
