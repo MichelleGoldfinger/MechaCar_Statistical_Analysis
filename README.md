@@ -5,7 +5,7 @@
 
 * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-The only variable that provides a non-random amount of variance to the mpg values is vehicle weight because its Pr(>|t|) value of .0776 is greater than to its corresponding significance code of 0.01.
+  The only variable that provides a non-random amount of variance to the mpg values is vehicle weight because its Pr(>|t|) value of .0776 is greater than to its       corresponding significance code of 0.01.
 
 
 * Is the slope of the linear model considered to be zero? Why or why not?
