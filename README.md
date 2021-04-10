@@ -53,4 +53,4 @@ Describe a statistical study that can quantify how the MechaCar performs against
 
 * What data is needed to run the statistical test?
   
-  The mean of city or highway fuel efficiency for the sample distribution (the competition) and the mean of the city or highway fuel efficiency of the population.     distribution(MechCar).
+  The mean of city or highway fuel efficiency for the sample distribution (the competition) and the mean of the city or highway fuel efficiency of the population     distribution(MechCar).
