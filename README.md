@@ -38,6 +38,22 @@
 
 * Write three more RScripts in your using the t.test() function and its subset() argument to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
+Lot1:
+<img width="623" alt="Screen Shot 2021-04-11 at 10 30 20 AM" src="https://user-images.githubusercontent.com/75905911/114308492-42c51300-9ab2-11eb-9e91-73c06a941dda.png">
+
+  The p-value for Lot1 is 1, which is higher than the significance level of 0.05 percent. Therefore, I       would state that the two means are statistically similar.
+
+Lot2:
+<img width="627" alt="Screen Shot 2021-04-11 at 10 31 04 AM" src="https://user-images.githubusercontent.com/75905911/114308724-d39bee80-9ab2-11eb-8602-9e85f0fc39b2.png">
+
+  The p-value for Lot2 is 0.6072, which is higher than the significance level of 0.05 percent. Therefore,   I would state that the two means are statistically similar.  
+  
+Lot3:
+<img width="633" alt="Screen Shot 2021-04-11 at 10 31 40 AM" src="https://user-images.githubusercontent.com/75905911/114308796-05ad5080-9ab3-11eb-8b40-1a93a4f38b35.png">
+
+  The p-value for Lot3 is 0.04168, which is lower than the significance level of 0.05 percent. Therefore,   I would state that the two means are statistically different.
+
+
 ## Deliverable 4: Study Design: MechaCar vs Competition
 
 Describe a statistical study that can quantify how the MechaCar performs against the competition
