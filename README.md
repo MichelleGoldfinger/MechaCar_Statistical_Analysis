@@ -32,7 +32,7 @@
 
 * Determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds per square inch. 
 
-  According to our t-test the p-value is .1815. Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore,    we do not have sufficient evidence to reject the null hypothesis. The two means are statistically similar.
+  According to our t-test the p-value is .1815. Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore,   we do not have sufficient evidence to reject the null hypothesis. The two means are statistically similar.
 
 <img width="637" alt="Screen Shot 2021-04-10 at 2 23 52 PM" src="https://user-images.githubusercontent.com/75905911/114280679-6e8bbe80-9a08-11eb-98dd-677770515ceb.png">
 
